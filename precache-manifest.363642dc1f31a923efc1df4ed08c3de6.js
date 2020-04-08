@@ -424,12 +424,12 @@ self.__precacheManifest = [
     "url": "/img/logo.18cc429f.png"
   },
   {
-    "revision": "732389ded34cb9c52dd88271f1345af9",
-    "url": "/fonts/element-icons.732389de.ttf"
-  },
-  {
     "revision": "535877f50039c0cb49a6196a5b7517cd",
     "url": "/fonts/element-icons.535877f5.woff"
+  },
+  {
+    "revision": "732389ded34cb9c52dd88271f1345af9",
+    "url": "/fonts/element-icons.732389de.ttf"
   },
   {
     "revision": "e7f827c12b004fad5bc10ef55ed7ddb2",
@@ -452,10 +452,6 @@ self.__precacheManifest = [
     "url": "/index.html"
   },
   {
-    "revision": "c16e5817f66cdaba6a358480d948fc72",
-    "url": "/img/self-icon-b.png"
-  },
-  {
     "revision": "3fd8cc403ef1c322dff9b5b031305731",
     "url": "/img/self-icon-bb.png"
   },
@@ -464,12 +460,12 @@ self.__precacheManifest = [
     "url": "/img/self-icon.png"
   },
   {
-    "revision": "2601ff01d139b7a538bec2d9ffb5e8ec",
-    "url": "/img/takeout-icon-b.png"
+    "revision": "c16e5817f66cdaba6a358480d948fc72",
+    "url": "/img/self-icon-b.png"
   },
   {
-    "revision": "fc316329d8cb07901d8c14a3639b1352",
-    "url": "/img/takeout-icon-bb.png"
+    "revision": "2601ff01d139b7a538bec2d9ffb5e8ec",
+    "url": "/img/takeout-icon-b.png"
   },
   {
     "revision": "98e860be21c8b4fb438b55425a0bc1bf",
@@ -478,5 +474,9 @@ self.__precacheManifest = [
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
     "url": "/robots.txt"
+  },
+  {
+    "revision": "fc316329d8cb07901d8c14a3639b1352",
+    "url": "/img/takeout-icon-bb.png"
   }
 ];
