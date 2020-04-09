@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "2a94552db096315f47a7",
+    "revision": "5bfc8a6f57e64a6ab6e2",
     "url": "/css/app.8e516947.css"
   },
   {
-    "revision": "2a94552db096315f47a7",
-    "url": "/js/app.493aad9f.js"
+    "revision": "5bfc8a6f57e64a6ab6e2",
+    "url": "/js/app.9a52a332.js"
   },
   {
     "revision": "8f26980d32bec39a9e07",
@@ -300,12 +300,12 @@ self.__precacheManifest = [
     "url": "/js/setting-printer.08eb29b3.js"
   },
   {
-    "revision": "8c08c0fbdc904c74c81f",
-    "url": "/css/setting-role-edit.ca95441a.css"
+    "revision": "f8a3a3ceafc03fff041e",
+    "url": "/css/setting-role-edit.1e78906c.css"
   },
   {
-    "revision": "8c08c0fbdc904c74c81f",
-    "url": "/js/setting-role-edit.0dc90159.js"
+    "revision": "f8a3a3ceafc03fff041e",
+    "url": "/js/setting-role-edit.6861d724.js"
   },
   {
     "revision": "b954c3ea1778be632c4b",
@@ -448,8 +448,12 @@ self.__precacheManifest = [
     "url": "/img/callnumber-poster-bg-general.07541de3.png"
   },
   {
-    "revision": "9d47f52479bb5fd50faad2a516d6d363",
+    "revision": "4c1ab012daf86010785e4dcfd69230ba",
     "url": "/index.html"
+  },
+  {
+    "revision": "c16e5817f66cdaba6a358480d948fc72",
+    "url": "/img/self-icon-b.png"
   },
   {
     "revision": "3fd8cc403ef1c322dff9b5b031305731",
@@ -460,10 +464,6 @@ self.__precacheManifest = [
     "url": "/img/self-icon.png"
   },
   {
-    "revision": "c16e5817f66cdaba6a358480d948fc72",
-    "url": "/img/self-icon-b.png"
-  },
-  {
     "revision": "2601ff01d139b7a538bec2d9ffb5e8ec",
     "url": "/img/takeout-icon-b.png"
   },
@@ -472,11 +472,11 @@ self.__precacheManifest = [
     "url": "/img/takeout-icon.png"
   },
   {
-    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
-    "url": "/robots.txt"
-  },
-  {
     "revision": "fc316329d8cb07901d8c14a3639b1352",
     "url": "/img/takeout-icon-bb.png"
+  },
+  {
+    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
+    "url": "/robots.txt"
   }
 ];
