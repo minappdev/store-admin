@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "5bfc8a6f57e64a6ab6e2",
+    "revision": "e4cfb51dbf9b71f87705",
     "url": "/css/app.8e516947.css"
   },
   {
-    "revision": "5bfc8a6f57e64a6ab6e2",
-    "url": "/js/app.9a52a332.js"
+    "revision": "e4cfb51dbf9b71f87705",
+    "url": "/js/app.218edfca.js"
   },
   {
     "revision": "8f26980d32bec39a9e07",
@@ -32,12 +32,12 @@ self.__precacheManifest = [
     "url": "/js/chunk-vendors.b161c248.js"
   },
   {
-    "revision": "c0fbcee38e63f5f288bd",
+    "revision": "53c10338964a065c5562",
     "url": "/css/config.18142fe8.css"
   },
   {
-    "revision": "c0fbcee38e63f5f288bd",
-    "url": "/js/config.8262d3c1.js"
+    "revision": "53c10338964a065c5562",
+    "url": "/js/config.fc6f1225.js"
   },
   {
     "revision": "b46fb79889625e1fc5bd",
@@ -76,12 +76,12 @@ self.__precacheManifest = [
     "url": "/js/faceorder-list.2c064ad3.js"
   },
   {
-    "revision": "5513dd412b9956536d12",
+    "revision": "af1fd66692b262670fd6",
     "url": "/css/home.69f91e42.css"
   },
   {
-    "revision": "5513dd412b9956536d12",
-    "url": "/js/home.4e59c77a.js"
+    "revision": "af1fd66692b262670fd6",
+    "url": "/js/home.fd40d9a8.js"
   },
   {
     "revision": "a24de77654b888b3ae11",
@@ -356,12 +356,12 @@ self.__precacheManifest = [
     "url": "/js/shippingfee.15b838b5.js"
   },
   {
-    "revision": "46c3eacde29999124999",
+    "revision": "b46f3adc210fbaf41a08",
     "url": "/css/signin.2164afe2.css"
   },
   {
-    "revision": "46c3eacde29999124999",
-    "url": "/js/signin.d1805670.js"
+    "revision": "b46f3adc210fbaf41a08",
+    "url": "/js/signin.69b27f06.js"
   },
   {
     "revision": "343abc6b4032fc4fd01a",
@@ -424,12 +424,12 @@ self.__precacheManifest = [
     "url": "/img/logo.18cc429f.png"
   },
   {
-    "revision": "732389ded34cb9c52dd88271f1345af9",
-    "url": "/fonts/element-icons.732389de.ttf"
-  },
-  {
     "revision": "535877f50039c0cb49a6196a5b7517cd",
     "url": "/fonts/element-icons.535877f5.woff"
+  },
+  {
+    "revision": "732389ded34cb9c52dd88271f1345af9",
+    "url": "/fonts/element-icons.732389de.ttf"
   },
   {
     "revision": "e7f827c12b004fad5bc10ef55ed7ddb2",
@@ -448,12 +448,12 @@ self.__precacheManifest = [
     "url": "/img/callnumber-poster-bg-general.07541de3.png"
   },
   {
-    "revision": "4c1ab012daf86010785e4dcfd69230ba",
+    "revision": "09380cf353fcfab3ca310227b99b8875",
     "url": "/index.html"
   },
   {
-    "revision": "c16e5817f66cdaba6a358480d948fc72",
-    "url": "/img/self-icon-b.png"
+    "revision": "3fd8cc403ef1c322dff9b5b031305731",
+    "url": "/img/self-icon-bb.png"
   },
   {
     "revision": "2601ff01d139b7a538bec2d9ffb5e8ec",
@@ -464,19 +464,19 @@ self.__precacheManifest = [
     "url": "/img/takeout-icon-bb.png"
   },
   {
-    "revision": "cb102051f4cd94cce4c010379e7ec2ca",
-    "url": "/img/self-icon.png"
-  },
-  {
-    "revision": "3fd8cc403ef1c322dff9b5b031305731",
-    "url": "/img/self-icon-bb.png"
-  },
-  {
     "revision": "98e860be21c8b4fb438b55425a0bc1bf",
     "url": "/img/takeout-icon.png"
   },
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
     "url": "/robots.txt"
+  },
+  {
+    "revision": "c16e5817f66cdaba6a358480d948fc72",
+    "url": "/img/self-icon-b.png"
+  },
+  {
+    "revision": "cb102051f4cd94cce4c010379e7ec2ca",
+    "url": "/img/self-icon.png"
   }
 ];
