@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "98ef704474e055237066",
+    "revision": "a9258626c588d4fa72ef",
     "url": "/css/app.8e516947.css"
   },
   {
-    "revision": "98ef704474e055237066",
-    "url": "/js/app.cc022021.js"
+    "revision": "a9258626c588d4fa72ef",
+    "url": "/js/app.865101fa.js"
   },
   {
     "revision": "8f26980d32bec39a9e07",
@@ -32,12 +32,12 @@ self.__precacheManifest = [
     "url": "/js/chunk-vendors.b161c248.js"
   },
   {
-    "revision": "38960affc0b1d63d26be",
+    "revision": "563cc19dbafce9141410",
     "url": "/css/config.18142fe8.css"
   },
   {
-    "revision": "38960affc0b1d63d26be",
-    "url": "/js/config.0be10ca1.js"
+    "revision": "563cc19dbafce9141410",
+    "url": "/js/config.43eb2aca.js"
   },
   {
     "revision": "b46fb79889625e1fc5bd",
@@ -448,35 +448,35 @@ self.__precacheManifest = [
     "url": "/img/callnumber-poster-bg-general.07541de3.png"
   },
   {
-    "revision": "72e78b211b570f3f7ee19e2fef3f5cd7",
+    "revision": "f684e7f73f692a97ef286518cb8da3bf",
     "url": "/index.html"
-  },
-  {
-    "revision": "cb102051f4cd94cce4c010379e7ec2ca",
-    "url": "/img/self-icon.png"
-  },
-  {
-    "revision": "2601ff01d139b7a538bec2d9ffb5e8ec",
-    "url": "/img/takeout-icon-b.png"
-  },
-  {
-    "revision": "fc316329d8cb07901d8c14a3639b1352",
-    "url": "/img/takeout-icon-bb.png"
-  },
-  {
-    "revision": "98e860be21c8b4fb438b55425a0bc1bf",
-    "url": "/img/takeout-icon.png"
-  },
-  {
-    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
-    "url": "/robots.txt"
   },
   {
     "revision": "3fd8cc403ef1c322dff9b5b031305731",
     "url": "/img/self-icon-bb.png"
   },
   {
+    "revision": "2601ff01d139b7a538bec2d9ffb5e8ec",
+    "url": "/img/takeout-icon-b.png"
+  },
+  {
+    "revision": "cb102051f4cd94cce4c010379e7ec2ca",
+    "url": "/img/self-icon.png"
+  },
+  {
+    "revision": "98e860be21c8b4fb438b55425a0bc1bf",
+    "url": "/img/takeout-icon.png"
+  },
+  {
     "revision": "c16e5817f66cdaba6a358480d948fc72",
     "url": "/img/self-icon-b.png"
+  },
+  {
+    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
+    "url": "/robots.txt"
+  },
+  {
+    "revision": "fc316329d8cb07901d8c14a3639b1352",
+    "url": "/img/takeout-icon-bb.png"
   }
 ];
