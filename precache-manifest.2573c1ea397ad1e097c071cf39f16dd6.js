@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "e4cfb51dbf9b71f87705",
+    "revision": "98ef704474e055237066",
     "url": "/css/app.8e516947.css"
   },
   {
-    "revision": "e4cfb51dbf9b71f87705",
-    "url": "/js/app.218edfca.js"
+    "revision": "98ef704474e055237066",
+    "url": "/js/app.cc022021.js"
   },
   {
     "revision": "8f26980d32bec39a9e07",
@@ -32,12 +32,12 @@ self.__precacheManifest = [
     "url": "/js/chunk-vendors.b161c248.js"
   },
   {
-    "revision": "53c10338964a065c5562",
+    "revision": "38960affc0b1d63d26be",
     "url": "/css/config.18142fe8.css"
   },
   {
-    "revision": "53c10338964a065c5562",
-    "url": "/js/config.fc6f1225.js"
+    "revision": "38960affc0b1d63d26be",
+    "url": "/js/config.0be10ca1.js"
   },
   {
     "revision": "b46fb79889625e1fc5bd",
@@ -356,12 +356,12 @@ self.__precacheManifest = [
     "url": "/js/shippingfee.15b838b5.js"
   },
   {
-    "revision": "b46f3adc210fbaf41a08",
+    "revision": "e80cf817dd02a7448b73",
     "url": "/css/signin.2164afe2.css"
   },
   {
-    "revision": "b46f3adc210fbaf41a08",
-    "url": "/js/signin.69b27f06.js"
+    "revision": "e80cf817dd02a7448b73",
+    "url": "/js/signin.78a0c619.js"
   },
   {
     "revision": "343abc6b4032fc4fd01a",
@@ -448,16 +448,20 @@ self.__precacheManifest = [
     "url": "/img/callnumber-poster-bg-general.07541de3.png"
   },
   {
-    "revision": "09380cf353fcfab3ca310227b99b8875",
+    "revision": "72e78b211b570f3f7ee19e2fef3f5cd7",
     "url": "/index.html"
   },
   {
-    "revision": "3fd8cc403ef1c322dff9b5b031305731",
-    "url": "/img/self-icon-bb.png"
+    "revision": "c16e5817f66cdaba6a358480d948fc72",
+    "url": "/img/self-icon-b.png"
   },
   {
     "revision": "2601ff01d139b7a538bec2d9ffb5e8ec",
     "url": "/img/takeout-icon-b.png"
+  },
+  {
+    "revision": "3fd8cc403ef1c322dff9b5b031305731",
+    "url": "/img/self-icon-bb.png"
   },
   {
     "revision": "fc316329d8cb07901d8c14a3639b1352",
@@ -470,10 +474,6 @@ self.__precacheManifest = [
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
     "url": "/robots.txt"
-  },
-  {
-    "revision": "c16e5817f66cdaba6a358480d948fc72",
-    "url": "/img/self-icon-b.png"
   },
   {
     "revision": "cb102051f4cd94cce4c010379e7ec2ca",

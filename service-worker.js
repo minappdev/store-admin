@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.79ac6b382f4070f2d0989e3a4ccb9d37.js"
+  "/precache-manifest.2573c1ea397ad1e097c071cf39f16dd6.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "lianheng-admin"});
