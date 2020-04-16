@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "a9258626c588d4fa72ef",
+    "revision": "2a43cdcc1eab59023e04",
     "url": "/css/app.8e516947.css"
   },
   {
-    "revision": "a9258626c588d4fa72ef",
-    "url": "/js/app.865101fa.js"
+    "revision": "2a43cdcc1eab59023e04",
+    "url": "/js/app.2829b4cf.js"
   },
   {
     "revision": "8f26980d32bec39a9e07",
@@ -100,12 +100,12 @@ self.__precacheManifest = [
     "url": "/js/link.7ab4e2f5.js"
   },
   {
-    "revision": "f0d5dca4371fac463e8c",
-    "url": "/css/marketing-banner.3cb4c745.css"
+    "revision": "ae938c1d6e84785d8bd0",
+    "url": "/css/marketing-banner.a347c03f.css"
   },
   {
-    "revision": "f0d5dca4371fac463e8c",
-    "url": "/js/marketing-banner.42162f6c.js"
+    "revision": "ae938c1d6e84785d8bd0",
+    "url": "/js/marketing-banner.489fc43c.js"
   },
   {
     "revision": "37651d8367ec4bbd6e14",
@@ -424,12 +424,12 @@ self.__precacheManifest = [
     "url": "/img/logo.18cc429f.png"
   },
   {
-    "revision": "732389ded34cb9c52dd88271f1345af9",
-    "url": "/fonts/element-icons.732389de.ttf"
-  },
-  {
     "revision": "535877f50039c0cb49a6196a5b7517cd",
     "url": "/fonts/element-icons.535877f5.woff"
+  },
+  {
+    "revision": "732389ded34cb9c52dd88271f1345af9",
+    "url": "/fonts/element-icons.732389de.ttf"
   },
   {
     "revision": "e7f827c12b004fad5bc10ef55ed7ddb2",
@@ -448,16 +448,16 @@ self.__precacheManifest = [
     "url": "/img/callnumber-poster-bg-general.07541de3.png"
   },
   {
-    "revision": "f684e7f73f692a97ef286518cb8da3bf",
+    "revision": "ff49515d069aee64df02b16c3e7098ce",
     "url": "/index.html"
-  },
-  {
-    "revision": "c16e5817f66cdaba6a358480d948fc72",
-    "url": "/img/self-icon-b.png"
   },
   {
     "revision": "3fd8cc403ef1c322dff9b5b031305731",
     "url": "/img/self-icon-bb.png"
+  },
+  {
+    "revision": "2601ff01d139b7a538bec2d9ffb5e8ec",
+    "url": "/img/takeout-icon-b.png"
   },
   {
     "revision": "cb102051f4cd94cce4c010379e7ec2ca",
@@ -476,7 +476,7 @@ self.__precacheManifest = [
     "url": "/robots.txt"
   },
   {
-    "revision": "2601ff01d139b7a538bec2d9ffb5e8ec",
-    "url": "/img/takeout-icon-b.png"
+    "revision": "c16e5817f66cdaba6a358480d948fc72",
+    "url": "/img/self-icon-b.png"
   }
 ];
