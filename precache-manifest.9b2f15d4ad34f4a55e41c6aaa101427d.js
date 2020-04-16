@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "e3100ba8d6b5ceb4af6d",
+    "revision": "f03937a50e80b1fc9850",
     "url": "/css/app.8e516947.css"
   },
   {
-    "revision": "e3100ba8d6b5ceb4af6d",
-    "url": "/js/app.4061fddf.js"
+    "revision": "f03937a50e80b1fc9850",
+    "url": "/js/app.3b24813a.js"
   },
   {
     "revision": "8f26980d32bec39a9e07",
@@ -40,12 +40,12 @@ self.__precacheManifest = [
     "url": "/js/config.43eb2aca.js"
   },
   {
-    "revision": "b46fb79889625e1fc5bd",
+    "revision": "f5027c0ebf6a011c498e",
     "url": "/css/course-edit.f0e42297.css"
   },
   {
-    "revision": "b46fb79889625e1fc5bd",
-    "url": "/js/course-edit.c7177797.js"
+    "revision": "f5027c0ebf6a011c498e",
+    "url": "/js/course-edit.506686c4.js"
   },
   {
     "revision": "076f1bef1e703b97ace0",
@@ -184,12 +184,12 @@ self.__precacheManifest = [
     "url": "/js/member-storeValueRule.d272c64f.js"
   },
   {
-    "revision": "7b80a766207d231848a4",
-    "url": "/css/order-detail.e3117af5.css"
+    "revision": "fab99d59b9b3d0359ffc",
+    "url": "/css/order-detail.8a780ebf.css"
   },
   {
-    "revision": "7b80a766207d231848a4",
-    "url": "/js/order-detail.fdf960a6.js"
+    "revision": "fab99d59b9b3d0359ffc",
+    "url": "/js/order-detail.249fd712.js"
   },
   {
     "revision": "99f2395bb7666c1b52f1",
@@ -208,12 +208,12 @@ self.__precacheManifest = [
     "url": "/js/order-refund.5238037f.js"
   },
   {
-    "revision": "a619e03dba69336ba852",
-    "url": "/css/products-edit.128880ba.css"
+    "revision": "24ebbf3197e783ad89e9",
+    "url": "/css/products-edit.169ad94a.css"
   },
   {
-    "revision": "a619e03dba69336ba852",
-    "url": "/js/products-edit.7629f710.js"
+    "revision": "24ebbf3197e783ad89e9",
+    "url": "/js/products-edit.1e0d3018.js"
   },
   {
     "revision": "cedc9ebbb3d562bb3857",
@@ -376,12 +376,12 @@ self.__precacheManifest = [
     "url": "/js/statistics-dashboard~statistics-miniprogram.a2ad48b6.js"
   },
   {
-    "revision": "537b5c07597e87501047",
+    "revision": "32efcb147563eb65d28d",
     "url": "/css/statistics-miniprogram.309613e9.css"
   },
   {
-    "revision": "537b5c07597e87501047",
-    "url": "/js/statistics-miniprogram.c4f25361.js"
+    "revision": "32efcb147563eb65d28d",
+    "url": "/js/statistics-miniprogram.5d084e47.js"
   },
   {
     "revision": "0ba0ff34f9738795aec7",
@@ -424,12 +424,12 @@ self.__precacheManifest = [
     "url": "/img/logo.18cc429f.png"
   },
   {
-    "revision": "535877f50039c0cb49a6196a5b7517cd",
-    "url": "/fonts/element-icons.535877f5.woff"
-  },
-  {
     "revision": "732389ded34cb9c52dd88271f1345af9",
     "url": "/fonts/element-icons.732389de.ttf"
+  },
+  {
+    "revision": "535877f50039c0cb49a6196a5b7517cd",
+    "url": "/fonts/element-icons.535877f5.woff"
   },
   {
     "revision": "e7f827c12b004fad5bc10ef55ed7ddb2",
@@ -448,7 +448,7 @@ self.__precacheManifest = [
     "url": "/img/callnumber-poster-bg-general.07541de3.png"
   },
   {
-    "revision": "5c8a83b7d2cffea7e3617553df08e8c3",
+    "revision": "bae8e8c2f517d977387fdf502c3a74c3",
     "url": "/index.html"
   },
   {
@@ -460,23 +460,23 @@ self.__precacheManifest = [
     "url": "/img/takeout-icon-b.png"
   },
   {
-    "revision": "cb102051f4cd94cce4c010379e7ec2ca",
-    "url": "/img/self-icon.png"
-  },
-  {
-    "revision": "3fd8cc403ef1c322dff9b5b031305731",
-    "url": "/img/self-icon-bb.png"
-  },
-  {
     "revision": "98e860be21c8b4fb438b55425a0bc1bf",
     "url": "/img/takeout-icon.png"
+  },
+  {
+    "revision": "fc316329d8cb07901d8c14a3639b1352",
+    "url": "/img/takeout-icon-bb.png"
   },
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
     "url": "/robots.txt"
   },
   {
-    "revision": "fc316329d8cb07901d8c14a3639b1352",
-    "url": "/img/takeout-icon-bb.png"
+    "revision": "cb102051f4cd94cce4c010379e7ec2ca",
+    "url": "/img/self-icon.png"
+  },
+  {
+    "revision": "3fd8cc403ef1c322dff9b5b031305731",
+    "url": "/img/self-icon-bb.png"
   }
 ];
