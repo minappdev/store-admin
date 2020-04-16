@@ -6,11 +6,11 @@
 
 使用管理后台端, 有两种方式
 
-### 使用公共管理后台地址
+### [方案一] 使用公共管理后台地址
 
 [https://store.minapp.dev](https://store.minapp.dev)
 
-### 自己部署管理后台
+### [方案二] 自己部署管理后台
 
 ```
 $ git clone https://github.com/minappdev/store-admin.git
@@ -22,4 +22,4 @@ $ git clone https://github.com/minappdev/store-admin.git
 无论是公共管理后台还是自己部署的管理后台, 除了加载自身的静态文件外:
 
 * 会加载高德地图js
-* 只会向你自己的服务端发起网络请求
+* 另外只会向你自己的服务端发起网络请求
