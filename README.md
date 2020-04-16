@@ -21,3 +21,4 @@ $ git clone https://github.com/minappdev/store-admin.git
 
 * 会加载高德地图js
 * 另外只会向你自己的服务端发起网络请求
+* **不会**向闪鲤服务器发起网络请求
