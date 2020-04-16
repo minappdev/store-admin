@@ -452,16 +452,16 @@ self.__precacheManifest = [
     "url": "/index.html"
   },
   {
+    "revision": "c16e5817f66cdaba6a358480d948fc72",
+    "url": "/img/self-icon-b.png"
+  },
+  {
     "revision": "3fd8cc403ef1c322dff9b5b031305731",
     "url": "/img/self-icon-bb.png"
   },
   {
     "revision": "cb102051f4cd94cce4c010379e7ec2ca",
     "url": "/img/self-icon.png"
-  },
-  {
-    "revision": "c16e5817f66cdaba6a358480d948fc72",
-    "url": "/img/self-icon-b.png"
   },
   {
     "revision": "98e860be21c8b4fb438b55425a0bc1bf",
