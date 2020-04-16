@@ -4,8 +4,6 @@
 
 > 当前管理后台端版本: v1.1.0
 
-使用管理后台端, 有两种方式
-
 ### [方案一] 使用公共管理后台地址
 
 [https://store.minapp.dev](https://store.minapp.dev)
