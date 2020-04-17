@@ -456,27 +456,27 @@ self.__precacheManifest = [
     "url": "/img/self-icon-b.png"
   },
   {
-    "revision": "2601ff01d139b7a538bec2d9ffb5e8ec",
-    "url": "/img/takeout-icon-b.png"
-  },
-  {
-    "revision": "98e860be21c8b4fb438b55425a0bc1bf",
-    "url": "/img/takeout-icon.png"
-  },
-  {
-    "revision": "fc316329d8cb07901d8c14a3639b1352",
-    "url": "/img/takeout-icon-bb.png"
-  },
-  {
-    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
-    "url": "/robots.txt"
+    "revision": "3fd8cc403ef1c322dff9b5b031305731",
+    "url": "/img/self-icon-bb.png"
   },
   {
     "revision": "cb102051f4cd94cce4c010379e7ec2ca",
     "url": "/img/self-icon.png"
   },
   {
-    "revision": "3fd8cc403ef1c322dff9b5b031305731",
-    "url": "/img/self-icon-bb.png"
+    "revision": "2601ff01d139b7a538bec2d9ffb5e8ec",
+    "url": "/img/takeout-icon-b.png"
+  },
+  {
+    "revision": "fc316329d8cb07901d8c14a3639b1352",
+    "url": "/img/takeout-icon-bb.png"
+  },
+  {
+    "revision": "98e860be21c8b4fb438b55425a0bc1bf",
+    "url": "/img/takeout-icon.png"
+  },
+  {
+    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
+    "url": "/robots.txt"
   }
 ];
