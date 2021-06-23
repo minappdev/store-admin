@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["index"],{"0afd":function(e,n,t){"use strict";t.r(n);var r=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",{staticStyle:{"background-color":"#fff"}})},a=[],c=t("73cd"),s={created:function(){Object(c["e"])()?this.$router.push({name:"dashboard"}):this.$router.push({name:"signin"})}},u=s,i=t("2877"),o=Object(i["a"])(u,r,a,!1,null,null,null);n["default"]=o.exports}}]);
+//# sourceMappingURL=index.ea767abe.js.map
